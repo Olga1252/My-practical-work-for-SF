@@ -9,3 +9,6 @@
 Модель:
 [Model](https://huggingface.co/docs/transformers/main/en/model_doc/resnet)
 [Model](https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.resnet18.html)
+
+
+links for models and dataset.md
